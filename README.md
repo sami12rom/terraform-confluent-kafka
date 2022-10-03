@@ -1,1 +1,1 @@
-# terraform-confluent-kafka
+# Terraform for Confluent Kafka
